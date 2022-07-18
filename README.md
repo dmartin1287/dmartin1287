@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danielle Martin</h1>
 <h3 align="center">A passionate full-stack software developer from Nashville</h3>
 
-- 💬 About Me: **Before starting my journey in software development, I had a casual exploration of coding. I wanted to take more of a professional approach. I found a great opportunity at Nashville Software School and I am currently enrolled in the full-time web development bootcamp.**
+- 💬 About Me: **Before starting my journey in software development, I had a casual exploration of coding. I wanted to take more of a professional approach. I found a great opportunity at Nashville Software School and I am currently enrolled in the full-time web development bootcamp. Software development has given me a new creative edge and a future of challenging, yet enjoyable, problems to solve.**
 
 - 🌟 Client Side Capstone: [Be My Hands](https://github.com/dmartin1287/be-my-hands)
 
-- 🌱 I’m currently learning: **Python and Django**
+- 🌱 I’m currently learning: *Python and Django*
 
-- 📫 How to reach me: **ordinaryworld2014@gmail.com**
+- 📫 How to reach me: *ordinaryworld2014@gmail.com*
 
 
 <h3 align="left">Connect with me:</h3>
