@@ -5,7 +5,7 @@
 
 - 🌟 Client Side Capstone: [Be My Hands](https://github.com/dmartin1287/be-my-hands)
 
-- ♠️ Server Side Capstone: [Mastermind](https://github.com/dmartin1287/Mastermind-Client-side)
+- ♠️ Server Side Capstone: [Mastermind](https://github.com/dmartin1287/mastermind-clientside)
 
 - 🌱 I’m currently learning: *Python and Django*
 
